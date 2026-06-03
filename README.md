@@ -1,6 +1,6 @@
 Aulas de Técnicas de programação básica
 
-Slides (Corrijir a ordem dos slides)
+Slides:
 
 1.Algoritmos
 2.Fluxograma
