@@ -1,6 +1,6 @@
 Aulas de Técnicas de programação básica
 
-Slides
+Slides (Corrijir a ordem dos slides)
 
 1.Algoritmos
 2.Vetores e matrizes
